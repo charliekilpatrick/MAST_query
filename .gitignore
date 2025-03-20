@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Repo-specific
+data/MAST*
+data/mast/hst/*.csv
+output/*.png
